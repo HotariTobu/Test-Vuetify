@@ -21,6 +21,10 @@ const routes: RouteRecordRaw[] = [
   },
   ...wireframes,
   ...utilityClasses,
+  {
+    path: '/skeleton-loaders',
+    component: () => import('@/views/skeleton-loaders.vue'),
+  },
 ]
 
 const router = createRouter({

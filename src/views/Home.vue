@@ -2,6 +2,7 @@
 const views = [
   'wireframes',
   'utility-classes',
+  'skeleton-loaders',
 ]
 
 import Links from "@/components/Links.vue";
