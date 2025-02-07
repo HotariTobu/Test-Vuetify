@@ -1,44 +1,11 @@
-# default
+# Test-Vuetify
 
-## Project setup
+`Test-Vuetify` is my test project of Vuetify. I try various things in this project.
 
-```
-# yarn
-yarn
+## License
 
-# npm
-npm install
+[Unlicense](LICENSE)
 
-# pnpm
-pnpm install
-```
+## Author
 
-### Compiles and hot-reloads for development
-
-```
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
+[HotariTobu](https://github.com/HotariTobu)
